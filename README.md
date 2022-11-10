@@ -1,5 +1,7 @@
 ### Hi there 👋
-I'm currently learning different programming languaes
+I'm currently learning different programming languages
+I'm ready to learn 
+I'm loking to learn web development
 
 
 <!--
