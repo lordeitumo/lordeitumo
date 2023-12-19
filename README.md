@@ -1,5 +1,8 @@
 ### Hi there 👋
+Welcome to my corner of the digital world! I'm Maxwell, a seasoned software developer driven by an insatiable curiosity and a love for turning complex challenges into elegant, user-friendly solutions.
 I'm currently learning
+I'm currently looking to collaborate on bulding web apps
+
 
 
 <!--
